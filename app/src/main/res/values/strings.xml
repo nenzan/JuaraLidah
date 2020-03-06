@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juara Lidah</string>
+    <string name="login_page_logo">Login Page Logo</string>
+    <string name="input_email_hint">Input Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_txt">Login to Account</string>
+    <string name="login_reg_btn_txt">Need a new Account?</string>
+</resources>

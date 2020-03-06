@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660367473651",
+    "firebase_url": "https://juara-lidah.firebaseio.com",
+    "project_id": "juara-lidah",
+    "storage_bucket": "juara-lidah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660367473651:android:a9a51ba8a70e9ec7fa7086",
+        "android_client_info": {
+          "package_name": "id.compunerds.juaralidah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660367473651-76f895qcjp577718u8lg90n91b4u5g71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyA0K6pfHc49opYVTnrbout8K5PPug5ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660367473651-76f895qcjp577718u8lg90n91b4u5g71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
